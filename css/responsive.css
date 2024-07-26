@@ -1,0 +1,71 @@
+<style>
+      .responsive1{
+          width: 800px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+           gap: 40px;
+}
+   .design-development{
+          display: flex;
+          gap: 40px;
+     }
+     .section3{
+       width: 50%;
+       
+    }
+    img{
+        border-spacing: 0cap;
+    }
+.SKILLS{
+    width: 100%;
+}
+.SKILLS p{
+    width: 404px;
+    height: 74px;
+    font-family: montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 38.37px;
+    letter-spacing: 0.3554em;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5rem;
+    border: 8px solid black;
+}
+.image-container {
+    text-align: center; 
+  }
+  
+  .image-caption {
+    margin-top: 10px; 
+    font-size: 14px; 
+    color: #100f0f; 
+  }
+  
+/* block to inline*/
+
+.image-container{
+  border: 5px;
+  display: flex;
+  line-height: 38.37px;
+    letter-spacing: 0.3554em;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5rem;
+  
+}
+.image P{
+  padding: 5px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  width: 250px;
+  height: 400px;
+  display: flex;
+  display: inline-block;  
+}
+</style>
